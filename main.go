@@ -81,7 +81,7 @@ func main() {
 
 				fmt.Println("Comment was posted.")
 
-				break
+				return
 			}
 		}
 	}
